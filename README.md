@@ -2,7 +2,7 @@
 UNC Data Analytics Bootcamp
 By Ai-Jiuan Wu
 
-Deployment link:  
+Deployment link:  https://ajwu100.github.io/plotly-challenge/
 
 The files/folder that are in this repository include the following: 
 
